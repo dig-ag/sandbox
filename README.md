@@ -1,2 +1,2 @@
 # HOME 
-title: Your awesome title
+# This is the new Home Page
